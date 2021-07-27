@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/30 02:32:45.000.908,=D:\Sydney_Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/18 17:28:06.000.306,=D:\Sydney_Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/26 18:24:30.000.895,=D:\Sydney_Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/26 18:26:28.000.840,D:\Sydney_2021\Projects\Png_RCC_Extractor\UMain.dfm=D:\Sydney_Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/26 18:26:28.000.840,D:\Sydney_2021\Projects\Png_RCC_Extractor\UMain.pas=D:\Sydney_Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/26 18:26:56.000.952,D:\Sydney_2021\Projects\Png_RCC_Extractor\PngRccExtractor.dproj=D:\Sydney_Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
